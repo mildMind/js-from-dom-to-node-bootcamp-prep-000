@@ -1,1 +1,1 @@
-console.Log("Yo, yo, yo. What up World!")
+console.log();("Yo, yo, yo. What up World!")
