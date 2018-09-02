@@ -1,2 +1,1 @@
-Javascript
-consoleLog("Yo, yo, yo. What up World!")
+console.Log("Yo, yo, yo. What up World!")
